@@ -9,5 +9,9 @@
   },
   "devDependencies": {
     "wrangler": "^3.0.0"
+  },
+  "dependencies": {
+    "@tsndr/cloudflare-worker-jwt": "^2.3.2",
+    "itty-router": "^4.0.25"
   }
 }

@@ -1,0 +1,2 @@
+GET https://auth.ryan-z-williams.workers.dev/
+Authorization:  Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ3ZWIiOiJ3d3cuMzEwc29mdC5jb20iLCJpYXQiOjE3MDMyNDEwNDV9.v4HRRxbsXqx_kL2kixJSRoIgraUAn_DuAADIXJkmDiE
